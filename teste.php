@@ -2,9 +2,11 @@
 
 $dev = "Ola mundo";
 
-$nome = "Giovanna ;
-"
-echo $dev "" "Meu nome é" $nome;
+$nome = "Giovanna" ;
+
+$descricao = "Curso: Tecnico em Desenvolvimento de Sisitema ";
+
+echo $dev  " "  $nome  "\n" $descricao;
 
 
 >?
