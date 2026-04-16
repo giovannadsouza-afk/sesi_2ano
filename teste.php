@@ -2,6 +2,9 @@
 
 $dev = "Ola mundo";
 
-echo "Ola mundo";
+$nome = "Giovanna ;
+"
+echo $dev "" "Meu nome é" $nome;
+
 
 >?
