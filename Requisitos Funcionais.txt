@@ -1,0 +1,21 @@
+Requisitos Funcionais:
+
+1-O sistema deve exibir o menu com alguns tópico da PSI 
+
+2- O sistema deve permitir que o usuário consiga verificar tópico responsabilidade 
+
+3- O sistema deve permitir que o usuário consiga verificar o tópico objetivos da PSI
+
+4-O sistema deve permitir que o usuário consiga verificar o tópico de Consequências da PSI
+
+5 Quando o usuário escolher algum tópico o sistema deve exibir o teto explicativo do assunto escolhido
+
+6 O sistema deve permitir login
+
+7 O sistema deve guardar a informação recebida do usuário
+
+8 O sistema deve exibir "Erro" se a informação não for compatível com a informação pedida
+
+9- O sistema tem que ser fácil de utilizar 
+
+10-Caso o Usuário digite um numero que não esta no menu , o sistema tem que mostrar erro 
